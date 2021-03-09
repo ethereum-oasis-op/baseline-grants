@@ -2,7 +2,7 @@
 name: Grant application
 about: Use this to submit grant applications.
 title: "[GR] "
-labels: ''
+labels: grant request
 assignees: ''
 
 ---
