@@ -27,7 +27,7 @@ NOTE: Only committee members can vote on a proposal. Committee members are the f
 - Hudson Jameson (@Souptacular)
 - To be Added
 
-Grant applications will be numbered (G#) in the [Issues]() section and also displayed in the table below.
+Grant applications will be numbered (G#) in the [Issues](https://github.com/ethereum-oasis/baseline-grants/issues) section and also displayed in the table below.
 
 |  #  | Grant Name | Has there been a vote? | Voting Page | Accepted |
 | --- |        ---        |       ---       |     ---     |    ---   |
