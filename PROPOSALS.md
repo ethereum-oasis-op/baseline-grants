@@ -4,3 +4,4 @@ Name - Grant name
 
 1. Hudson Jameson - Test Grant
 2. Biswashree Dey - Baseline Plugins (Excel & Oracle)
+3. Jack Garvin - multi-party workflow and zk circiuts (trust models)
