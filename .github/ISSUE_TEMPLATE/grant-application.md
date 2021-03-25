@@ -10,35 +10,32 @@ assignees: ''
 <!--- Provide a summary of the request in the Title above -->
 
 ## Grant name
-No-Code Hello World Application 
+Building common data schemas and methods of data translation so that data can be synchronized between systems of record
 
 ## Applicant background
-QModeler - is a team of 12 blockchain developers working accross the world. We have been working on blockchain projects for 4 years and have built the leading blockchain No-Code development platform QModeler.
+Tim O'Brien has been an integration architect for 18 years. During his career he has consulted as an Integration Architect for large banks, Citi,  Deutsche Bank, Aozora. Tim O'Brien worked for Google building cloud architecture. Tim's most recent endeavor has been as CTO of Ferdon where he applied his patents to build advanced blockhain solutions. 
+Tim's complete resume can be found at this link: https://drive.google.com/file/d/1rbyLtirVlVbfDmpuwG9V9hkRpjCynN66/view?usp=sharing
+
  
 
 ## Motivation and overview
-Adapting our product to the Baseline Protocol will provide our customers with added comfort and reassurance as well as various other benefits, such as the potential of future integratons,that are accrued by adhering to a standard.  For more about the many benefits our customers find in using our market leading product please view our explainer video at the link below.The baseline protocol would benefit by a potentially wider adoption as a consequence of being available to a non-technical audiance. 
-Our proposal is to build a Hello World application in our No-Code Platform that deploys to the Ethereum mainnet. This would entail adding new components to our pallet of components and some backend changes that would modify our own architecture that uses a different approach to synching merkle trees. Once built technically nieve users would be able to build sophisticated applications using a drag and drop interface. 
-
-https://www.youtube.com/watch?v=njce9Q9hhMc
+Building common data schemas and domain models  simplifies integration by reducing  the potential  number of transfermations from NxN to N (N is the number of participants). Transformation and validation is often the most CPU intense operaton in an integration system so can cause a performance bottleneck. The specific requirements will be analyzed including format (in-flight and at rest), tranformation methodologies, and hardware requirements. The Sr members of the Baseline Protocol team will be consulted on decisions and presented with arguments why the choice is optimal.  
 
 
 ## Execution risks
-- integration with our proprietary formal verification could involve modification of contracts. 
-- documentation of the code is scarce but we can learn the code. 
+-  The task must be well defined so as not to "boil the ocean". The analasys phase must product well defined goals that align with the baseline protocol's roadmap for the work to have high relevancy. 
 
 ## Downsides
 
 
 ## Tasks and schedule (milestones if applicable)
 
-Milestone  1 -  Modification of QModler Runtime to include  messaging JSON-RPC.
-Milestone  2 -   Modification of QModeler Runtime to include persistance libraries
-Milestoone 3 - Integration of QModeler Smart Contracts and Baseline Smart contracts. 
+Milestone  1 -   Analasys complete. At this point the solution should be well documented. 
+Milestone  2 -   Data definitions and transfromation mappings defined using spreadsheets. 
+Milestoone 3 -   Fully documewnt mplementation including working sample code that demonstraints how the product.  
 
 
 ## Budget and justification
 10,000 USD 
-We anticipate the work would take 4 backend developers 2 blockchain developers and 4 UI developers working in parallel for 5 weeks. 
-Our cost is estimated to be  50K
+The work should take approximatly 6 weeks. 
 
