@@ -6,3 +6,4 @@ Name - Grant name
 2. Biswashree Dey - Baseline Plugins (Excel & Oracle)
 3. QModler - No-Code Hello World
 4. Jack Garvin - multi-party workflow and zk circiuts (trust models)
+5. Data Schemas and Transitions for Synchronization
