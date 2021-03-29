@@ -7,3 +7,4 @@ Name - Grant name
 3. QModler - No-Code Hello World
 4. Jack Garvin - multi-party workflow and zk circiuts (trust models)
 5. Tim O'Brien - Data Schemas and Transitions for Synchronization
+6. Tom Lyons - Baseline thought leadership framework and content plan
