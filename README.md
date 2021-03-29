@@ -31,7 +31,10 @@ Grant applications will be numbered (G#) in the [Issues](https://github.com/ethe
 
 |  #  | Grant Name | Has there been a vote? | Voting Page | Accepted |
 | --- |        ---        |       ---       |     ---     |    ---   |
-|   |         |              |   |       |
+| GR1  |    Baseline Plugins (Excel & Oracle)     |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/11)  |    TBD   |
+| GR2  |    No-Code Hello World Application       |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/7)  |    TBD   |
+| GR3  |   Baseline thought leadership framework and content plan     |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/4)  |    TBD   |
+
 
 Voting is done at the convenience of the comittee memebers and confirmed during recorded committee meetings. Voting is done in the issues labeled "G# - VOTING" and can be seen in the table above. Comittmee members can vote one of three ways:
 - Thumbs up emoji to signal you want to approve the grant.
