@@ -25,7 +25,10 @@ If you are interested in contributing monetarily to the Baseline Protocol grant 
 NOTE: Only committee members can vote on a proposal. Committee members are the following:
 
 - Hudson Jameson (@Souptacular)
-- To be Added
+- Anais Ofranc (@Consianimis)
+- Nate McKervey (@dataPhysicist)
+- Conor Svensson (@conor10)
+- TO BE ADDED
 
 Grant applications will be numbered (G#) in the [Issues](https://github.com/ethereum-oasis/baseline-grants/issues) section and also displayed in the table below.
 
