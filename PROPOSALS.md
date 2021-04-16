@@ -8,3 +8,4 @@ Name - Grant name
 4. Jack Garvin - multi-party workflow and zk circiuts (trust models)
 5. Tim O'Brien - Data Schemas and Transitions for Synchronization
 6. Tom Lyons - Baseline thought leadership framework and content plan
+7. Boris Breslav, Luiz Soares, Amal Amchtal - Writing zero-knowledge circuits using gnark to expand the existing library – Focus on Financial Circuit.
