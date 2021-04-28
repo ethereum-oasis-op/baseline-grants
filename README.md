@@ -26,9 +26,16 @@ NOTE: Only committee members can vote on a proposal. Committee members are the f
 
 - Hudson Jameson (@Souptacular)
 - Anais Ofranc (@Consianimis)
-- Nate McKervey (@dataPhysicist)
 - Conor Svensson (@conor10)
-- TO BE ADDED
+- Cale Teeter (@caleteeter)
+- Brian Chamberlain (@breakpointer)
+- John Wolpert (@humbitious)
+- Anais Ofranc (@Consianimis)
+- Stefan Schmidt (@stefschmidt)
+- Kyle Thomas (@kthomas)
+- Tomasz Stańczak (@tkstanczak)
+- George Spasov (@Perseverance)
+- Kartheek Solipuram (@skarred14)
 
 Grant applications will be numbered (G#) in the [Issues](https://github.com/ethereum-oasis/baseline-grants/issues) section and also displayed in the table below.
 
