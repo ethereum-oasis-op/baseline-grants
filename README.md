@@ -43,7 +43,8 @@ Grant applications will be numbered (G#) in the [Issues](https://github.com/ethe
 | --- |        ---        |       ---       |     ---     |    ---   |
 | GR1  |    Baseline Plugins (Excel & Oracle)     |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/11)  |    TBD   |
 | GR2  |    No-Code Hello World Application       |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/7)  |    TBD   |
-| GR3  |   Baseline thought leadership framework and content plan     |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/4)  |    TBD   |
+| GR3  |   Baseline thought leadership framework and content plan     |       Voting Complete       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/4)  |    [Accepted](https://github.com/ethereum-oasis/baseline-grants/issues/14)   |   
+| GR4  |   Writing zero-knowledge circuits using gnark to expand the existing library – Focus on Financial Circuit Development and Approach     |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/16)  |    TBD   |
 
 
 Voting is done at the convenience of the comittee memebers and confirmed during recorded committee meetings. Voting is done in the issues labeled "G# - VOTING" and can be seen in the table above. Comittmee members can vote one of three ways:
