@@ -9,4 +9,5 @@ Name - Grant name
 5. Tim O'Brien - Data Schemas and Transitions for Synchronization
 6. Tom Lyons - Baseline thought leadership framework and content plan
 7. Boris Breslav, Luiz Soares, Amal Amchtal - Writing zero-knowledge circuits using gnark to expand the existing library – Focus on Financial Circuit.
-8. Ahmadou El Becaye Toure - Mobile Money B2B Integration with Baseline Protocol - Use Case 
+8. Michael Cairns - Publishing Supply Chain Improvement Proposal
+9. Ahmadou El Becaye Toure - Mobile Money B2B Integration with Baseline Protocol - Use Case
