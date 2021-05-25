@@ -11,3 +11,4 @@ Name - Grant name
 7. Boris Breslav, Luiz Soares, Amal Amchtal - Writing zero-knowledge circuits using gnark to expand the existing library – Focus on Financial Circuit.
 8. Michael Cairns - Publishing Supply Chain Improvement Proposal
 9. Ahmadou El Becaye Toure - Mobile Money B2B Integration with Baseline Protocol - Use Case
+10. Dhruv Malik - baselining of  Federated Learning as an service on EHR + health credentials ( baseline reference implementation app). 
