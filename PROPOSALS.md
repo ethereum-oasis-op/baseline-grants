@@ -12,6 +12,5 @@ Name - Grant name
 8. Michael Cairns - Publishing Supply Chain Improvement Proposal
 9. Ahmadou El Becaye Toure - Mobile Money B2B Integration with Baseline Protocol - Use Case
 10. Dhruv Malik - working  as  SDE with maintainers / TSC   team to develop / upgrade the  baseline  repository for V1 standards.
-
 11. Biswashree Dey - Security Improvements and Other Enhancements for Excel Addin
-
+12. Manik Jain, Jack Proudfoot, Stefan Kostic, Ryan Fisch - Battleship "Hello World" application for introducing developers to Baseline protocol
