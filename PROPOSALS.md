@@ -14,4 +14,5 @@ Name - Grant name
 10. Dhruv Malik - working  as  SDE with maintainers / TSC   team to develop / upgrade the  baseline  repository for V1 standards.
 
 11. Biswashree Dey - Security Improvements and Other Enhancements for Excel Addin
+12. Ognjen Kurtić - Test suite for a standard-based Baseline Protocol Implementation
 
