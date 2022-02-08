@@ -1,6 +1,8 @@
 # baseline-grants
 The location the baseline protocol community uses to organize the submission of R&D and enablement project grants.
 
+## This repo is undergoing updates for 2022 and will be finalized in March 2022. 
+
 ## Examples of what we fund
 These are some examples of things the protocol would like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the protocol, but as a way to encourage ideas for potential applicants. If your idea to improve the protocol doesn’t fit exactly, feel free to surprise us with your proposal!
 
@@ -22,42 +24,15 @@ These are some examples of things the protocol would like to fund. This purpose 
 If you are interested in contributing monetarily to the Baseline Protocol grant pool, visit [our Open Collective Portal](https://opencollective.com/baseline-protocol).
 
 ## How voting works
-NOTE: Only committee members can vote on a proposal. Committee members are the following:
+NOTE: Only committee members can vote on a proposal. Committee members can be [found here](https://docs.baseline-protocol.org/governance/technical-steering-committee). 
 
-- Hudson Jameson (@Souptacular)
-- Anais Ofranc (@Consianimis)
-- Conor Svensson (@conor10)
-- Cale Teeter (@caleteeter)
-- Brian Chamberlain (@breakpointer)
-- John Wolpert (@humbitious)
-- Anais Ofranc (@Consianimis)
-- Stefan Schmidt (@stefschmidt)
-- Kyle Thomas (@kthomas)
-- Tomasz Stańczak (@tkstanczak)
-- George Spasov (@Perseverance)
-- Kartheek Solipuram (@skarred14)
-
-Grant applications will be numbered (G#) in the [Issues](https://github.com/ethereum-oasis/baseline-grants/issues) section and also displayed in the table below.
-
-|  #  | Grant Name | Has there been a vote? | Voting Page | Accepted |
-| --- |        ---        |       ---       |     ---     |    ---   |
-| GR1  |    Baseline Plugins (Excel & Oracle)     |       Voting Complete       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/11)  |    [Accepted](https://github.com/ethereum-oasis/baseline-grants/issues/12)   |
-| GR2  |    No-Code Hello World Application       |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/7)  |    TBD   |
-| GR3  |   Baseline thought leadership framework and content plan     |       Voting Complete       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/4)  |    [Accepted](https://github.com/ethereum-oasis/baseline-grants/issues/14)   |
-| GR4  |   Writing zero-knowledge circuits using gnark to expand the existing library – Focus on Financial Circuit Development and Approach     |       Voting Complete       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/16)  |    [Accepted](https://github.com/ethereum-oasis/baseline-grants/issues/18)   |
-| GR5  |    Mobile Money B2B Integration with Baseline Protocol       |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/27)  |    TBD   |
-| GR6  |    Publishing Supply Chain Improvement Proposal       |       In Progress       | [Click Here](https://github.com/ethereum-oasis/baseline-grants/issues/28)  |    TBD   |
-
-Voting is done at the convenience of the comittee memebers and confirmed during recorded committee meetings. Voting is done in the issues labeled "G# - VOTING" and can be seen in the table above. Comittmee members can vote one of three ways:
+Voting is done at the convenience of the comittee membersm Voting is done in the issues labeled "G# - VOTING" and can be seen in the table above. Comittmee members can vote by doing the following,
 - Thumbs up emoji to signal you want to approve the grant.
 - Thumbs down emoji to signal you do not want to approve the grant.
-
-The voting issue and the table above are updated to reflect the results of the vote (after being certified in the comittee meeting) and the issue is closed once a decision has been made.
 
 ## Governing rules
 ### Funds Allocation and Administration
 #### The parameters of this grant and its administration are as follows:
-
 
 
 Total Fund: $100,000 USD equivalent (paid out in ETH or DAI based on milestones defined in any given proposal)
@@ -67,7 +42,6 @@ Any remaining funds not allocated by August 1, 2021 will be returned to the EF.
 
 
 The governing bodies of the Baseline Protocol ([Technical Steering Committee, Project Governance Board and Maintainers Team](https://docs.baseline-protocol.org/community/community-leaders)) will be responsible for ensuring that projects are selected in accordance with the criteria and that the funds are properly distributed.
-
 
 ### Submission Criteria will stipulate that:
 Projects use the public Ethereum mainnet as the Common Frame of Reference in the baseline protocol stack
