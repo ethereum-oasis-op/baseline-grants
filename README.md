@@ -34,13 +34,6 @@ Voting is done at the convenience of the comittee membersm Voting is done in the
 ### Funds Allocation and Administration
 #### The parameters of this grant and its administration are as follows:
 
-
-Total Fund: $100,000 USD equivalent (paid out in ETH or DAI based on milestones defined in any given proposal)
-75% of the funds are designated for allocation by the Baseline TSC according to its usual governance and allocation processes before June 30, 2021.
-The other 25% may be allocated for projects that are outside the current scope of the TSC’s governance and allocation process (such as education, ecosystem development, documentation) by recommendation by TSC members, subject to approval by EF representatives.  If not allocated before July 1 2021, then these funds may be allocated by the TSC as above.  
-Any remaining funds not allocated by August 1, 2021 will be returned to the EF.
-
-
 The governing bodies of the Baseline Protocol ([Technical Steering Committee, Project Governance Board and Maintainers Team](https://docs.baseline-protocol.org/community/community-leaders)) will be responsible for ensuring that projects are selected in accordance with the criteria and that the funds are properly distributed.
 
 ### Submission Criteria will stipulate that:
