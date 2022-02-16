@@ -3,6 +3,8 @@ Grant applications are completed by individuals or teams to propose allocation o
 
 The grant application has been approved if a majority (6 or more) of the Technical Steering Committee members upvote this application (thumbs up).
 
+If approved, please add your project to the ['Approved Grants' list here](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md).
+
 ## Grant Title
 <!--- Update line #3 with the title of your grant, in a few words-->
 
