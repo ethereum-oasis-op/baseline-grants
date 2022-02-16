@@ -37,6 +37,6 @@ If approved, please add your project to the ['Approved Grants' list here](https:
 
 
 ### Community Grant Agreement 
-I understand and agree to the ['Grant Recipient Guidelines & Process' outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
+I understand and agree to the ['Process for Approved Grants' outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
 - [ ] I agree 
 - [ ] I do not agree
