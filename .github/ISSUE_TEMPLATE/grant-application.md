@@ -1,5 +1,5 @@
 # Grant Application
-Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project.Please complete the template below for the community to assess.
+Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project. Please use this application template and submit an issue.
 
 ## Grant Title
 <!--- Update line #3 with the title of your grant, in a few words-->
