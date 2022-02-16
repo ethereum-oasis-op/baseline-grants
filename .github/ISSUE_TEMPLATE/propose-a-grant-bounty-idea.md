@@ -1,5 +1,5 @@
-# Grant Bounty Proposal 
-Grant bounty ideas are rrequests for proposed work for the Baseline community members or interested organizations to take on. Please complete the template below for the community to assess.
+# Grant Bounty Idea Proposal 
+Grant bounty ideas are requests for proposed work for the Baseline community members or interested organizations to take on. Please complete the template below for the community to assess.
 
 ## Name of Grant Bounty Idea
 <!--- Name of the grant idea in a few words -->
