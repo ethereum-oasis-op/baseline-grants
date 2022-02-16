@@ -1,31 +1,37 @@
----
-name: Grant application
-about: Use this to submit grant applications.
-title: "[GR Testing] "
-labels: ''
-assignees: ''
+# Grant Application
 
----
+## Grant Title
+<!--- Update line #3 with the title of your grant, in a few words-->
 
-<!--- Provide a summary of the request in the Title above -->
-
-## Grant name
+## Details on Grant Work
+<!--- Describe your idea in greater detail -->
 
 
-## Applicant background
-<!-- Name of person or team submitting the grant request -->
+## Motivation and Overview
+<!-- What is the motivation and context for this proposed work? -->
 
 
-## Motivation and overview
+## Value to the Baseline Protocol
+<!--- Elaborate on the value this effort provides to the further developement, enhancement, or adoption of the Baseline Protocol -->
 
 
-## Execution risks
+## Downsides / Execution Risks / Limitations
+<!-- What are the downsides, execution risks, and/or limitations of this work? -->
 
 
-## Downsides
+## Deliverables / Schedule / Milestones
+<!-- Provide information on the final deliverables, proposed schedule, and milestones that you and/or your team will follow to complete the work  -->
 
 
-## Tasks and schedule (milestones if applicable)
+## Budget and Justification
+<!-- Provide proposed amount that should be paid (in USD) for the grant work, with detailed justification -->
 
 
-## Budget and justification
+## Applicant Background
+<!-- Name of person or team submitting the grant request, with background and experience -->
+
+
+### Community Grant Agreement 
+I understand and agree to the Grant Recipient Guidelines [outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
+- [ ] I agree 
+- [ ] I do not agree
