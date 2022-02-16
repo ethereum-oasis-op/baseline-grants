@@ -1,6 +1,8 @@
 # Grant Application
 Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project. Please use this application template and submit an issue.
 
+The grant application has been approved if a majority (6 or more) of the Technical Steering Committee members upvote this application (thumbs up).
+
 ## Grant Title
 <!--- Update line #3 with the title of your grant, in a few words-->
 
