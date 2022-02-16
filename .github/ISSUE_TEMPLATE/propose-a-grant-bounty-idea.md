@@ -18,8 +18,8 @@ Grant bounty ideas are requests for proposed work for the Baseline community mem
 - [ ] Bounty will be paid by proposing company/organization for work 
 - [ ] Requesting to use Baseline grant funds(Will follow grant proposal process in which Technical Steering Committee will assess alignment with roadmap)
 
-## Proposer Information 
-<!-- Provide your contact info here -->
+## Optional - Proposer Information 
+<!-- Optionally, provide your contact info here -->
 
 ## Other
 <!-- Questions, comments, links to relevant information -->
