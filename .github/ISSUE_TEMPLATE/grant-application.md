@@ -32,6 +32,6 @@
 
 
 ### Community Grant Agreement 
-I understand and agree to the Grant Recipient Guidelines [outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
+I understand and agree to the Grant Recipient Guidelines & Process [outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
 - [ ] I agree 
 - [ ] I do not agree
