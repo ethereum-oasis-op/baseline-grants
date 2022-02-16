@@ -1,4 +1,4 @@
-<!--- Grant bounty ideas requests of proposed work for the Baseline community members or interested organizations to take on. Please complete the template below and the community will assess and respond -->
+<!--- Grant bounty ideas requests of proposed work for the Baseline community members or interested organizations to take on. Please complete the template below and the community will assess and respond. -->
 
 # Grant Bounty Proposal 
 
@@ -23,4 +23,4 @@
 <!-- Provide your contact info here -->
 
 ## Other
-<!-- Any questions, comments or notes that the group should be aware of? -->
+<!-- Questions, comments, links to relevant information -->
