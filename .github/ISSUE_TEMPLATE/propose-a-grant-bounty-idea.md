@@ -11,8 +11,8 @@
 ## Value to the Baseline Protocol
 <!--- Elaborate on the value this effort provides to the further developement, enhancement, or adoption of the Baseline Protocol -->
 
-## Proposed Budget 
-<!-- Provide proposed amount that should be paid (in USD) for the grant work -->
+## Proposed Budget & Justification
+<!-- Provide proposed amount that should be paid (in USD) for the grant work, with detailed justification -->
 
 ## Payment Source
 <!-- What is your proposed source of payment -->
