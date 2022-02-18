@@ -4,6 +4,7 @@ The Baseline Protocol grant program funds development, research, enablement, and
 ## Submit a Grant Application
 Grant applications are submitted by individuals or teams to propose allocation of Baseline grant funds to a specific project.
 
+Follow these steps:
 1. Submit an issue using the ["Grant Application" issue template](https://github.com/eea-oasis/baseline-grants/blob/main/.github/ISSUE_TEMPLATE/grant-application.md). 
 2. Join the #grants channel in our [community Slack](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ).
 3. Announce your grant application in the #grants channel with a link to the grant appliction issue.
