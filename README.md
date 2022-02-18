@@ -47,7 +47,7 @@ The Baseline [Technical Steering Committee](https://docs.baseline-protocol.org/g
 - Project outputs should be rendered in open source submissions (accessible on the GitHub, website, or google drive), though there may be cases where project outputs may have a material impact on the purpose while not being appropriate for submission directly back to the Baseline Protocol github repo or website itself. The TSC shall use its discretion in this regard when selecting projects.
 
 ## Examples of Grant Ideas
-Below are some examples of work that would enhance the Baseline Protocol, this = is not an exhaustive list but serves to spark ideas for potential applicants. Feel free to [join the Slack](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ) or [team meetings](https://www.baseline-protocol.org/get-involved/) to further flesh out ideas as well. 
+Below are some examples of work that would enhance the Baseline Protocol, this is not an exhaustive list but serves to spark ideas for potential applicants. Feel free to [join the Slack](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ) or [team meetings](https://www.baseline-protocol.org/get-involved/) to further flesh out ideas as well. 
 
 - Baseline implementation that allows technical and functional personas to best understand how Baseline works.
 - Contribution to a react.js admin dashboard for configuring and monitoring a baseline stack.
