@@ -55,3 +55,7 @@ Below are some examples of work that would enhance the Baseline Protocol, this =
 - Building baseline plugins for existing software applications.
 - Building common data schemas and methods of data translation so that data can be synchronized between systems of record.
 - Resources that various personas can distribute to others to understand the value of Baseline.
+
+### Questions?
+#### Questions? 
+Ask in the [#grants team slack](<https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ>) or e-mail at baseline-team@oasis-open.org
