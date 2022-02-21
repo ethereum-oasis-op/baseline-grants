@@ -40,3 +40,6 @@ If approved, please add your project to the ['Approved Grants' list here](https:
 I understand and agree to the ['Process for Approved Grants' outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
 - [ ] I agree 
 - [ ] I do not agree
+
+### Grant Status 
+Grant application is approved if 6 or more TSC members have upvoted (thumbs up) this issue. 
