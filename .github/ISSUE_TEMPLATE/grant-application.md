@@ -41,5 +41,3 @@ I understand and agree to the ['Process for Approved Grants' outlined here](http
 - [ ] I agree 
 - [ ] I do not agree
 
-### Grant Status 
-Grant application is approved if 6 or more TSC members have upvoted (thumbs up) this issue. 
