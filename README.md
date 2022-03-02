@@ -1,6 +1,27 @@
 # baseline-grants
 The Baseline Protocol grant program funds development, research, enablement, and other iniatitives that align with the roadmap and community objectives. 
 
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Total Grant Fund</th>
+    <th>Total Allocated</th>
+    <th>Remaining Funds</th>
+  </tr>
+    <tr>
+    <td>2022</td>
+    <td>$100,000</td>
+    <td>$10,000</td>
+    <td>$90,000</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>$100,000</td>
+    <td>$100,000</td>
+    <td>$0</td>
+  </tr>
+</table>
+
 ## Submit a Grant Application
 Grant applications are submitted by individuals or teams to propose allocation of Baseline grant funds to a specific project.
 
