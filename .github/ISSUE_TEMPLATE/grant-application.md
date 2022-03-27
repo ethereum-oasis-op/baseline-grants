@@ -17,7 +17,7 @@ If approved, please add your project to the ['Approved Grants' list here](https:
 
 
 ## Value to the Baseline Protocol
-<!--- Elaborate on the value this effort provides to the further developement, enhancement, or adoption of the Baseline Protocol -->
+<!--- Elaborate on the value this effort provides to the further development, enhancement, or adoption of the Baseline Protocol -->
 
 
 ## Downsides / Execution Risks / Limitations
