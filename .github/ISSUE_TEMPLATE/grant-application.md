@@ -6,7 +6,7 @@ The grant application has been approved if a majority (6 or more) of the Technic
 If approved, please add your project to the ['Approved Grants' list here](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md).
 
 ## Grant Title
-<!--- Update line #3 with the title of your grant, in a few words-->
+<!--- Update line #3 with the title of your grant, in a few words, prefix with '[GR]'-->
 
 ## Details on Grant Work
 <!--- Describe your idea in greater detail -->
