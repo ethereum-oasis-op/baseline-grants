@@ -1,6 +1,6 @@
 # Grant Application for BLIP Bounty Hunt
-Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project. This template differs from the standard [Grant Application template](https://github.com/eea-oasis/baseline-grants/blob/main/.github/ISSUE_TEMPLATE/grant-application.md)
-as it is tailored to the 6-week duration of the [BLIP Bounty Hunt](https://sites.google.com/oasis-open.org/amsterbased2022/blip-bounty-hunt).
+Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project. 
+This template is tailored to the 6-week duration of the [BLIP Bounty Hunt](https://sites.google.com/oasis-open.org/amsterbased2022/blip-bounty-hunt).
 
 The grant application has been approved if a majority (6 or more) of the Technical Steering Committee members upvote this application (thumbs up), and a community manager will update the label to 'approved'.
 
@@ -42,3 +42,6 @@ I understand and agree to the ['Process for Approved Grants' outlined here](http
 (Items #7 and #8 under the 'Process for Approved Grants' list do not apply for the Bounty Hunt work given the shortened duration, instead bi-weekly updates as a comment under the corresponding BLIP are required during the work.
 - [ ] I agree 
 - [ ] I do not agree
+
+### Questions?
+Email the team at baseline-team@oasis-open.org or [message in the BLIP Bounty Hunt Discord](baseline-team@oasis-open.org)
