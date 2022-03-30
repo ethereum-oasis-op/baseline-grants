@@ -34,7 +34,7 @@ Follow these steps:
 ## Process for Approved Grants
 5. Once approved, finalize the commitment by submitting a PR to add yourself to the [approved grant list](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md).
 6. A 'work tracker' issue will be opened in either the [BLIPs repo](https://github.com/eea-oasis/baseline-blips) (for technical, implementation, or standard focused work) or the [Outreach repo](https://github.com/eea-oasis/baseline-outreach) (for enablement, research, or content related work). The issue will be opened by a community manager and assigned to the grant recipient(s).
-7. Grant recipients will be required to comment on the 'work tracker' by the 1st of each month with a detailed update on progress, roadblocks, and any comments. 
+7. Grant recipients will be required to comment on the 'work tracker' by the 1st of each month with a detailed update on progress, roadblocks, and any comments. Any changes in scope or timeline need to be conveyed in the #grants slack channel or in the issue directly.
 8. Once grant work is complete, the grant recipeint will submit an issue using the ["Grant Payment Request" issue template](https://github.com/eea-oasis/baseline-grants/blob/main/.github/ISSUE_TEMPLATE/grant-payment-request.md).
 9. The TSC will vote on the payment request at the next TSC session, and if approved will change the issue label to 'approved' and close it.
 10. The TSC and community managers will faciliate the payment process for recipients to recieve their funds.
