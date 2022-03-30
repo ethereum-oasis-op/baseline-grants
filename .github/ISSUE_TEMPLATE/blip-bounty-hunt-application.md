@@ -35,7 +35,7 @@ Feel free to use suggested amount provided in the BLIP, or adjust according to t
 ---
 
 ### Community Grant Agreement 
-I understand and agree to the [BLIP Bounty Hunt Terms & Conditions](https://github.com/eea-oasis/baseline-blips/blob/main/BLIP-Bounty-Hunt.md) and the ['Process for Approved Grants' outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
+I understand and agree to the [BLIP Bounty Hunt Terms & Conditions](https://github.com/eea-oasis/baseline-blips/blob/main/BLIP-Bounty-Hunt-Terms.md) and the ['Process for Approved Grants' outlined here](https://github.com/eea-oasis/baseline-grants/blob/main/README.md)
 (Items #7 and #8 under the 'Process for Approved Grants' list do not apply for the Bounty Hunt work given the shortened duration, instead bi-weekly updates are required as a comment under this grant request.
 - [ ] I agree 
 - [ ] I do not agree
