@@ -1,7 +1,7 @@
 # Grant Application
 Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project. Please use this application template and submit an issue.
 
-The grant application has been approved if a majority (6 or more) of the Technical Steering Committee members upvote this application (thumbs up).
+The grant application has been approved if a majority (6 or more) of the [Technical Steering Committee members](https://docs.baseline-protocol.org/governance/technical-steering-committee) upvote this application (thumbs up).
 
 If approved, please add your project to the ['Approved Grants' list here](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md).
 
