@@ -2,7 +2,7 @@
 Grant applications are completed by individuals or teams to propose allocation of Baseline grant funds to a specific project. 
 This template is tailored to the 6-week duration of the [BLIP Bounty Hunt](https://sites.google.com/oasis-open.org/amsterbased2022/blip-bounty-hunt).
 
-The grant application has been approved if a majority (6 or more) of the Technical Steering Committee members upvote this application (thumbs up), and a community manager updates the label to 'approved'.
+The grant application has been approved if a majority (6 or more) of the [Technical Steering Committee members](https://docs.baseline-protocol.org/governance/technical-steering-committee) upvote this application (thumbs up), and a community manager updates the label to 'approved'.
 
 If approved, add your project to the ['Approved Grants' list here](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md) to signify commitment to the work.
 
