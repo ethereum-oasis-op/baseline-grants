@@ -5,4 +5,5 @@ Submitting this PR will require [signing the Oasis iCLA](https://gist.github.com
 ## Name - Grant Name - Amount
 
 Boye Oomens - Complete Website Overhaul Phase 1 (see #62) - USD $5,000
+--
 Vaibhav Maheshwari - Baseline Calender (see #70) - USD $6,000
