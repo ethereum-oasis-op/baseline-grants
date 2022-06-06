@@ -1,7 +1,7 @@
 # Grant Payment Request
 Grant payment request is submitted once the grant project has been completed as specifed in the grant application (or as agreed upon by grant recipient and TSC if there was a scope change). 
 
-The payment has been approved if a majority (6 or more) of the [Technical Steering Committee members](https://docs.baseline-protocol.org/governance/technical-steering-committee) upvote this request( thumbs up).
+The payment has been approved if a majority (5 or more) of the [Technical Steering Committee members](https://docs.baseline-protocol.org/governance/technical-steering-committee) upvote this request( thumbs up).
 
 ---
 
