@@ -5,31 +5,30 @@ The payment has been approved if a majority (5 or more) of the [Technical Steeri
 
 ---
 
-## Grant Title
-Update above line with the title of your grant
+## The USA’s Leading Event for Innovation in Financial Services. May 25-26.
+
 
 ---
 
 ### Grant Application
 Fill in issue # below to link to approved grant application
-Issue #
+Issue # https://github.com/eea-oasis/baseline-grants/issues/71
 
 ---
 
 ### Grant Work Tracker
 Add link to issue that was used to track work updates below
-
+https://github.com/eea-oasis/baseline-outreach/issues/22
 ---
 
 ### Links to Final Deliverables
 Add links to merged pull requests, final deliveerables, demos, presentations, and any supporting material here
-
----
+https://github.com/eea-oasis/baseline-outreach/issues/22
+https://www.youtube.com/watch?v=HZJj2VJWyMI
 
 ### Grant Amount
 Requested amount for work (must match approved application)
-
----
+$2,995
 
 ### Notes
 Any questions or comments?
