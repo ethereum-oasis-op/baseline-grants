@@ -4,8 +4,10 @@ Submitting this PR will require [signing the Oasis iCLA](https://gist.github.com
 
 ## Name - Grant Name - Amount
 
-Boye Oomens - Complete Website Overhaul Phase 1 (see #62) - USD $5,000
+Boye Oomens - Complete Website Overhaul & Maintainence (see #62) - USD $10,000
 
 Vaibhav Maheshwari - Baseline Calender (see #70) - USD $6,000
 
 Boris Breslav - Attend - Lendit Fintech - The USA’s Leading Event for Innovation in Financial Services. May 25-16 (#71) - USD $2,995
+
+Samrat Kishor / Jack Weiring - AmsterBased - USD $3,936.87
