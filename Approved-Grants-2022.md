@@ -14,4 +14,5 @@ Samrat Kishor / Jack Weiring - AmsterBased - USD $3,936.87
 
 Biswashree Dey, Manik Jain, Ognjen Kurtic, Stefan Kostic - Simple Reference Implementation (BRI-3) - USD $50,000
 
-Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022.
+Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 = $4,500 total
+
