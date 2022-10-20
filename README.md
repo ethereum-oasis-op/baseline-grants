@@ -6,21 +6,21 @@ The Baseline Protocol grant program funds development, research, enablement, and
     <th>Year</th>
     <th>Total Grant Fund</th>
     <th>Total Allocated</th>
-    <th>Remaining Funds</th>
   </tr>
     <tr>
     <td>2022</td>
     <td>$100,000</td>
-    <td>$72,931.87</td>
-    <td>$27,068.13</td>
+    <td>$77,431.87</td>
   </tr>
   <tr>
     <td>2021</td>
     <td>$100,000</td>
     <td>$100,000</td>
-    <td>$0</td>
   </tr>
 </table>
+
+The most accurate information on the grant funds can be found [here](https://opencollective.com/baseline-protocol). 
+Approved grants for this calendar year can be found [here](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md).
 
 ## Submit a Grant Application
 Grant applications are submitted by individuals or teams to propose allocation of Baseline grant funds to a specific project.
