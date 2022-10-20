@@ -37,4 +37,4 @@ Any questions or comments?
 ---
 
 ### Payment Request Status
-Payment request is approved if 6 or more TSC members have upvoted (thumbs up) this issue.
+Payment request is approved if a majority (5 or more) TSC members have upvoted (thumbs up) this issue.
