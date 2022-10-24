@@ -4,7 +4,7 @@ Submitting this PR will require [signing the Oasis iCLA](https://gist.github.com
 
 ## Name - Grant Name - Amount
 
-Boye Oomens - Complete Website Overhaul & Maintainence (see #62) - USD $10,000
+Boye Oomens - Complete Website Overhaul & Maintainence (see #62) - USD $7,500
 PHASE 1 PAID ($5,000)
 PHASE 2 PENDING ($2,500)
 
