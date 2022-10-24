@@ -6,7 +6,7 @@ Submitting this PR will require [signing the Oasis iCLA](https://gist.github.com
 
 Boye Oomens - Complete Website Overhaul & Maintainence (see #62) - USD $10,000
 PHASE 1 PAID ($5,000)
-PHASE 2 PENDING ($5,000)
+PHASE 2 PENDING ($2,500)
 
 Vaibhav Maheshwari - Baseline Calender (see #70) - USD $6,000
 PAYMENT PENDING
@@ -22,4 +22,3 @@ PAYMENT PENDING
 
 Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 = $4,500 total
 PAYMENT PENDING
-
