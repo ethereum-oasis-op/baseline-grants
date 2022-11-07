@@ -22,3 +22,6 @@ PAYMENT PENDING
 
 Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 = $4,500 total
 PAYMENT PENDING
+
+Marc Haddle - Travel Expense reimbursement for fintech_devcon presentation - USD $1,000
+PAYMENT PENDING 
