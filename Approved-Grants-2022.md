@@ -25,3 +25,5 @@ PAYMENT PENDING
 
 Marc Haddle - Travel Expense reimbursement for fintech_devcon presentation - USD $1,000
 PAYMENT PENDING 
+
+Samrat Kishor - Representation of Baseline Protocol at ETHVietnam Event :: Nov 25-27 - USD $300 - PAYMENT PENDING
