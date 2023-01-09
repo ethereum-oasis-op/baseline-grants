@@ -20,10 +20,10 @@ Biswashree Dey, Manik Jain, Ognjen Kurtic, Stefan Kostic - Simple Reference Impl
 <br> PHASE 1 ($12,500) PAID
 <br> REMAINING PHASES (37,500) PENDING
 
-Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 = $4,500 total
+Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 (adjusted based on shows) = $4,250 total
 <br> PHASE 1 ($1,500) PAID
 <br> REMAINING PHASES ($2,750) PAID
 
 Marc Haddle - Travel Expense reimbursement for fintech_devcon presentation - USD $1,000 PAID
 
-Samrat Kishor - Representation of Baseline Protocol at ETHVietnam Event :: Nov 25-27 - USD $300 - PAID
+Samrat Kishor - Representation of Baseline Protocol at ETHVietnam Event: Nov 25-27 - USD $300 PAID
