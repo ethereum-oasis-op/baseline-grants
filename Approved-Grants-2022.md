@@ -22,7 +22,7 @@ Biswashree Dey, Manik Jain, Ognjen Kurtic, Stefan Kostic - Simple Reference Impl
 
 Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 = $4,500 total
 <br> PHASE 1 ($1,500) PAID
-<br> REMAINING PHASES ($3,000) PAID
+<br> REMAINING PHASES ($2,750) PAID
 
 Marc Haddle - Travel Expense reimbursement for fintech_devcon presentation - USD $1,000 PAID
 
