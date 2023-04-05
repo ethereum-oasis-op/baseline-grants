@@ -18,7 +18,8 @@ PAID
 
 Biswashree Dey, Manik Jain, Ognjen Kurtic, Stefan Kostic - Simple Reference Implementation (BRI-3) - USD $50,000
 <br> PHASE 1 ($12,500) PAID
-<br> REMAINING PHASES (37,500) PENDING
+<br> PHASE 2 (12,500) PAID
+<br> REMAINING PHASES (25,000) PENDING
 
 Samrat Kishor -- Conduct the Weekly Baseline Show (See #84) -- USD 1,000 per month from mid August - Dec 2022 (adjusted based on shows) = $4,250 total
 <br> PHASE 1 ($1,500) PAID
