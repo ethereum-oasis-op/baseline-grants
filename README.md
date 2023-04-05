@@ -10,8 +10,8 @@ The Baseline Protocol grant program funds development, research, enablement, and
   </tr>
     <tr>
     <td>2022</td>
-    <td>$38,481.87</td>
-    <td>$37,500</td>
+    <td>$50,981.87</td>
+    <td>$25,000</td>
     <td>$6,448.39</td>
   </tr>
 
