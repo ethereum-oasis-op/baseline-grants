@@ -1,6 +1,8 @@
 # baseline-grants
 The Baseline Protocol grant program funds development, research, enablement, and other iniatitives that align with the roadmap and community objectives. 
 
+2023 Update: The TSC is outlining the grant donation and management process for 2023 and eagerly seeking companies or individuals to support through monetary or in-kind donations to enable the work. E-mail community managers at baseline-team@oasis-open.org with questions or comments.
+
 <table>
   <tr>
     <th>Year</th>
@@ -28,9 +30,7 @@ The Baseline Protocol grant program funds development, research, enablement, and
   </tr>
 </table>
 
-
-
-The most accurate information on the grant funds can be found [here](https://opencollective.com/baseline-protocol). 
+The most current information on the financials can be found [here](https://opencollective.com/baseline-protocol). 
 Approved grants for this calendar year can be found [here](https://github.com/eea-oasis/baseline-grants/blob/main/Approved-Grants-2022.md).
 
 ## Submit a Grant Application
@@ -59,7 +59,7 @@ Grant bounty ideas are requests for proposed work for the Baseline community mem
 3. Announce your grant bounty idea in the #grants channel with a link to the bounty idea issue.
 
 ## Contribute to the Fund
-The Ethereum Foundation and ConsenSys Mesh have contrbiuted to the grant pool so far, if you're interested in donating monetarily to the advancement of the Baseline Protocol visit [our Open Collective Portal](https://opencollective.com/baseline-protocol).
+Contributions to the Baseline Protocol Grants Program can involve monetary or in-kind contributions for specific work, RFPs, or the general grant pool. For info on how to donate and whyy [see here](https://github.com/eea-oasis/baseline-grants/blob/main/Baseline%20Protocol%20-%20Grant%20Program%20Donation%20Information.pdf) or e-mail community managers at baseline-team@oasis-open.org with questions or comments.
 
 ## Governing Rules
 ### Administration and Management
